@@ -1,0 +1,49 @@
+th{
+	font-family: sans-serif;
+	font-size: 150%;
+	text-align: center;
+	padding: 15px;
+	background: #F5F5F5;
+}
+.class1{
+	font-family: sans-serif;
+	font-size: 125%;
+	color: #008000;
+	text-align: center; 
+	background: #FF9966;
+	border: solid black;
+}
+.class2{
+	font-family: sans-serif;
+	font-size: 125%;
+	color: black;
+	text-align: center; 
+	background: #DDA0DC;
+	border: solid black;
+}
+.class3{
+	font-family: sans-serif;
+	font-size: 125%;
+	color: black;
+	text-align: center; 
+	background: #90C7FF;
+	border: solid black;
+}
+.class4{
+	font-family: sans-serif;
+	font-size: 125%;
+	color: black;
+	text-align: center; 
+	background: #FFF28E;
+	border: solid black;
+}
+
+a{
+	display: block;
+	padding: 15px;
+	font-family: sans-serif;
+	font-size: 125%;
+	text-align: center; 
+	text-decoration: none;
+	color: white;
+}
