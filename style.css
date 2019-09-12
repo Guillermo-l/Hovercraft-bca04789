@@ -5,8 +5,16 @@ th{
 	padding: 15px;
 	background: #F5F5F5;
 }
+
+@media{
+	a:hover {
+		cursor: pointer;
+		background: #CDFF00
+	}
+}
 .class1{
 	font-family: sans-serif;
+	font-weight: bold;
 	font-size: 125%;
 	color: #008000;
 	text-align: center; 
@@ -15,6 +23,7 @@ th{
 }
 .class2{
 	font-family: sans-serif;
+	font-weight: bold;
 	font-size: 125%;
 	color: black;
 	text-align: center; 
@@ -23,6 +32,7 @@ th{
 }
 .class3{
 	font-family: sans-serif;
+	font-weight: bold;
 	font-size: 125%;
 	color: black;
 	text-align: center; 
@@ -31,6 +41,7 @@ th{
 }
 .class4{
 	font-family: sans-serif;
+	font-weight: bold;
 	font-size: 125%;
 	color: black;
 	text-align: center; 
@@ -42,6 +53,7 @@ a{
 	display: block;
 	padding: 15px;
 	font-family: sans-serif;
+	font-weight: bold;
 	font-size: 125%;
 	text-align: center; 
 	text-decoration: none;
